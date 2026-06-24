@@ -94,7 +94,7 @@ The project demonstrates:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/remoteok-job-scraper.git
+git clone https://github.com/Salumohammedawal/web-scraping.git
 cd remoteok-job-scraper
 ```
 
